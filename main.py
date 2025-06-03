@@ -10,7 +10,7 @@ a = np.random
 print(a)
 
 a = 200
-
+a = 300
 
 
 def print_hi(name):
