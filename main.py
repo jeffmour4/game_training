@@ -9,6 +9,8 @@ a = np.random
 
 print(a)
 
+a = 200
+
 
 
 def print_hi(name):
